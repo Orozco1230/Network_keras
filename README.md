@@ -2,10 +2,6 @@
 
 Este repositorio contiene un modelo de red neuronal implementado con Keras para tareas relacionadas con redes.
 
-## Descripción
-
-[Aquí, proporciona una descripción detallada del proyecto.  Explica el propósito del modelo, el tipo de problema que resuelve y cualquier característica clave. Si el repositorio tiene como objetivo el análisis de redes, explica de qué tipo.  Por ejemplo, puede ser para predecir enlaces, clasificar nodos, etc.]
-
 ## Estructura del repositorio
 
 El repositorio tiene la siguiente estructura:
@@ -26,8 +22,7 @@ pip install -r requirements.txt
 Las dependencias principales son:
 
 -   Keras
--   TensorFlow (o Theano, o CNTK, dependiendo de tu configuración de backend de Keras)
--   [Añade cualquier otra dependencia específica aquí, como numpy, pandas, scikit-learn, etc.]
+-   TensorFlow (o Theano, o CNTK, dependiendo de tu configuración de backend de Keras
 
 ## Uso
 
@@ -50,12 +45,6 @@ Las dependencias principales son:
     python main.py
     ```
 
-    [Añade cualquier instrucción adicional sobre cómo usar el script, como argumentos de línea de comandos, configuración de parámetros, etc.]
-
-## Ejemplos
-
-[Incluye ejemplos de cómo usar el modelo. Si hay scripts de ejemplo o notebooks Jupyter, explica cómo ejecutarlos y qué hacen.]
-
 ## Contribución
 
 Si deseas contribuir a este proyecto, sigue estos pasos:
@@ -65,12 +54,3 @@ Si deseas contribuir a este proyecto, sigue estos pasos:
 3.  Haz los cambios y commit: `git commit -m "Añade una nueva característica"`
 4.  Sube la rama: `git push origin feature/nueva-caracteristica`
 5.  Crea un pull request.
-
-## Licencia
-
-[Indica la licencia bajo la cual se distribuye el proyecto.  Por ejemplo, MIT License, Apache 2.0, etc.]
-
-## Contacto
-
-[Proporciona información de contacto, como tu correo electrónico o perfil de GitHub, para que otros puedan contactarte con preguntas o comentarios.]
-
